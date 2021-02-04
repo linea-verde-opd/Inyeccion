@@ -1,6 +1,6 @@
 # Inyeccion
 
-Este repositorio explica la forma de distribuir el flujo de inversiones sobre el desarrollo del proyecto durante la etapa actual.
+#Este repositorio explica la forma de distribuir el flujo de inversiones sobre el desarrollo del proyecto durante la etapa actual.
 
 -recurso mercadologico
 
@@ -23,7 +23,7 @@ Este repositorio explica la forma de distribuir el flujo de inversiones sobre el
 -recurso financiero empresarial social 
 -desarrollo social
 
-cumpliendo con cada punto en una linea de acuerdos en archivo anexado
+###cumpliendo con cada punto en una linea de acuerdos en archivo anexado
 resumido por orden en la agenda los puntos siguientes
 
 [] stock (m2 de cultivo, objetos para cultivo, acuerdos inteligentes, red de intercambio activa)
